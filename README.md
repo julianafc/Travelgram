@@ -27,5 +27,6 @@ Este projeto foi criado durante a formação Fullstack da Rocketseat, na trilha 
 - Layout responsivo
 
 ## 🖼️ Demonstração
+<img width="1360" height="1359" alt="FireShot Capture 010 - Travelgram -  127 0 0 1" src="https://github.com/user-attachments/assets/dfdffcfb-6c9f-4cc6-a1e1-5b3415751606" />
 
-Acesse o projeto através deste link: [Travelgram](#)
+Acesse o projeto através deste link: [Travelgram](https://julianafc.github.io/Travelgram/)
