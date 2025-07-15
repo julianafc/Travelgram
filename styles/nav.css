@@ -22,3 +22,7 @@ nav ul li:last-child img {
     object-fit: cover;
     border-radius: 50%;
 }
+
+nav #logo-hidden {
+    display: none;
+}
